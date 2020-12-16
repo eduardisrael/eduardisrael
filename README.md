@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- :guitar: :computer: :runner:
-- from Guayaquil, Ecuador 🇪🇨
+- :guitar: :computer: :runner: 🇪🇨
 
 Projects: 
 - Protopie https://cloud.protopie.io/p/0261a6b2b3?ui=false&mockup=true&touchHint=true&scale
