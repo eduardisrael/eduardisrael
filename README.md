@@ -2,7 +2,7 @@
 
 - :guitar: :computer: :runner: 🇪🇨
 
-## Projects: 
+### Projects: 
 - COVID-RX | ProtoPie Cloud: http://bit.ly/3r0EMUr
 - Tableau Public: http://tabsoft.co/38a3skQ
 
