@@ -24,10 +24,13 @@ My stack includes TypeScript, React, React Native, Java/Spring Boot, Python, Swi
 **Via ioet Inc.**
 
 - **Warby Parker** — Internal iPadOS app for eyeglass prescription automation, appointment management, and payment processing (not publicly listed)
+
 - **EY Global Tax Platform (GTP)** — Enterprise finance & tax operations platform [Learn more](https://pub1.ey.com/2025/2502/2502-11826-cs/how-gtp-works/index.html)
 
-### Academic Projects:
+## Academic Projects:
+
 - COVID-RX | ProtoPie Cloud: http://bit.ly/3r0EMUr (2020)
+
 - Tableau Public: http://tabsoft.co/38a3skQ (2020)
 
 <!--
