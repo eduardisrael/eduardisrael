@@ -12,7 +12,7 @@ My stack includes TypeScript, React, React Native, Java/Spring Boot, Python, Swi
 
 **Via Thoughtworks**
 
-- **LATAM Airlines** — Enterprise Mobile Platform (iOS/Android)
+- **LATAM Airlines** — Travel experience app (iOS/Android)
   [App Store](https://apps.apple.com/us/app/latam-airlines/id1497908631) · [Play Store](https://play.google.com/store/apps/details?id=com.latam.xp&hl=en_US)
 
 - **LATAM PASS** — Loyalty & rewards (iOS/Android)
