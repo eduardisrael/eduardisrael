@@ -27,12 +27,6 @@ My stack includes TypeScript, React, React Native, Java/Spring Boot, Python, Swi
 
 - **EY Global Tax Platform (GTP)** — Enterprise finance & tax operations platform [Learn more](https://pub1.ey.com/2025/2502/2502-11826-cs/how-gtp-works/index.html)
 
-## Academic Projects:
-
-- COVID-RX | ProtoPie Cloud: http://bit.ly/3r0EMUr (2020)
-
-- Tableau Public: http://tabsoft.co/38a3skQ (2020)
-
 <!--
 **eduardisrael/eduardisrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
